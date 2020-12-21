@@ -1,0 +1,2 @@
+[run]
+omit=carddeck/__main__.py
